@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Appi</string>
+    <string name="Show_dailog">show_dailog</string>
+    <string name="login">Login</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="email">email</string>
+    <string name="enter_password">enter password</string>
+    <string name="success_login_message">Login successfull</string>
+    <string name="error_login_message">Please enter the correct password</string>
+</resources>
